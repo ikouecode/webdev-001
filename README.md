@@ -1,1 +1,1 @@
-# Formation: développement web (13042024)
+# Formation: DEV WEB (13042024)
